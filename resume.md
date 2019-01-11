@@ -1,12 +1,19 @@
 # Michael Bunn
+
 ![Michael Bunn](/photos/bunn_michael.jpg)
+
 :mailbox: 101 Kearney Hall, Oregon State University
+
 :earth_americas: Corvallis, OR 97331
+
 :e-mail: bunnmi@oregonstate.edu
 
 ## Education
+
 Ph.D.:moneybag: Civil Engineering, [Oregon State University](https://cce.oregonstate.edu/phd-degree-requirements) June 2019 (Expected)
+
 M.S., Civil Engineering, [Oregon State University](https://cce.oregonstate.edu/ms-civil-engineering-degree-requirements) March 2016
+
 B.S., Civil Engineering, [University of Portland](https://engineering.up.edu/abet-accredited-undergraduate-programs/civil-engineering.html)	May 2014
 
 ## Experience
