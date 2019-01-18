@@ -37,13 +37,17 @@ Water Resources Intern
 ## Professional Organization Membership
 
 American Society of Civil Engineers, Student Member	2013 - Present
+
 Geo-Institute Graduate Student Organization, Student Chapter President	2016 – 2017
+
 American Society of Photogrammetry and Remote Sensing, Student Chapter Vice President	2015 – 2016
+
 Geo-Institute Graduate Student Organization, Student Chapter Secretary and Webmaster	2015 – 2016
 
 ## Awards
 
 2018 Norman & Evelyn Wildish Graduate Fellow, Oregon State University.
+
 2017 Esri Development Center GIS Student of the Year, Oregon State University.
 
 ## Peer-Reviewed Publications, Notes and Technical Reports
